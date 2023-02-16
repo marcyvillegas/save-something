@@ -1,0 +1,7 @@
+
+.logo_color {
+    background: #294F69;
+    background: linear-gradient(to right, #294F69 6%, #2AAEB0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

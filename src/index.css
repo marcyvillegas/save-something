@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 html {
+    margin: 0;
+    padding: 0;
     height: 100vh;
     background-image: linear-gradient(to right bottom, #7399d3, #4e96c6, #2e92b3, #1a8c9d, #208486);
 }
